@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kelmendaz
-- 👀 I’m interested in ... learning programming fundamentals, App Script, data manipulation, database management, silly 2D games
-- 🌱 I’m currently learning ... Javascript
+- 👀 I’m interested in ... learning programming fundamentals, workflow automation with Google Apps Script, data manipulation, database management, silly 2D games
+- 🌱 I’m currently learning ... Javascript, HTML, and CSS
 - 💞️ I’m looking to collaborate on ... beginner-level projects
 - 📫 How to reach me ... TBD!
 
